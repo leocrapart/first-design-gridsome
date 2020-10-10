@@ -15,7 +15,7 @@
       <a href="https://github.com/gridsome/gridsome" target="_blank" rel="noopener">GitHub</a>
     </p>
 
-    <div class="font-bold">hey</div>
+    <div class="font-bold">First design</div>
 
   </Layout>
 </template>
